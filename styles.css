@@ -1,0 +1,202 @@
+h1{
+    margin-top: 0px;
+    font-family: 'Sacramento', cursive;
+    font-size: 3.75rem;
+    color: #002a61d8;
+    margin-bottom: 0px;
+    line-height: 85px;
+}
+body{
+    margin:0;
+    text-align: center;
+}
+hr{
+    width:10%;
+    border-top: 0;
+    margin-top: 70px;
+    border-bottom: dotted 5px;
+    color: #002a61d8;
+}
+em{
+    color: #faa200bd;
+    font-size: larger;
+    font-weight: 700;
+    text-shadow: none;
+}
+
+
+.top-container{
+    background-color: #fcdb90;
+    height:100vh;
+}
+.middle-container{
+    background-color: #fffdf4;
+    position: relative;
+    bottom: 10px;
+
+}
+.bottom-container{
+    background-color: #ffd87e;
+    height: 150px;
+    margin-top: 40px;
+    
+}
+.music1{
+    position:absolute;
+    left:420px;
+    top:110px ;
+    width:150px;
+    height: 150px;
+}
+.music2{
+    position: absolute;
+    right: 410px;
+    top: 25px;
+    width:150px;
+    height: 150px;
+}
+.concert{
+    position:relative;
+    top:230px;
+    width:700px;
+    height: 400px;
+} 
+.text{  
+    position: absolute;
+    top:90px;
+    left: 550px;
+}  
+.intro{
+    font-family: 'Raleway', sans-serif;
+    color: #11396dcb;
+    font-size: 1.375rem;
+    font-weight: bolder;
+    margin-top: 0;
+} 
+.jackimg{
+    height:250px;
+    width:250px;
+    margin-top: 50px;
+}
+.profile{
+    text-align: center;
+}
+.dance{
+    width:25%; 
+    float: right;
+    margin-left: 30px;
+    margin-top: 30px;
+    height: 210px;
+}
+.sing{
+    width:25%; 
+    margin-top: 20px;
+    float: left;
+    margin-right: 30px;
+}
+.idol{
+    width:25%; 
+    height: 230px;
+    float: left;
+    margin-right: 30px;
+    margin-top: 20px;
+}
+.fashion{
+    width:25%; 
+    float: right;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.footer-link{
+    color: #002a61d8; 
+    margin-top: 40px;   
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: center;
+    line-height: 2;
+}
+.forfont{
+    font-family: 'Raleway', sans-serif;
+    color: #0c3161de;
+    font-size: x-large;    
+}
+.forfontt{
+    font-family: 'Comic Neue', cursive;
+    letter-spacing: 1px;
+    font-weight: bold;
+    color: rgb(75, 75, 75);
+}
+.forsize{
+    font-family: 'Raleway', sans-serif;
+    color: #0c3161de;
+    font-size: xx-large;
+}
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color:#002a61d8;
+    font-size: 20px;
+    background: #ffd981;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+.btn:hover {
+    background: #ffb547;
+    text-decoration: none;
+}
+.insta{
+    position: relative;
+    top: 50px;
+    right:60px;
+    text-decoration: none;
+    font-size: larger;
+    font-weight: bold;
+}
+.face{
+    position: relative;
+    top: 50px;
+    text-decoration: none;
+    font-size: larger;
+    font-weight: bold;
+}
+.linked{
+    position: relative;
+    top: 50px;
+    left:60px;
+    text-decoration: none;
+    font-size: larger;
+    font-weight: bold;
+}
+.wang{
+    position: relative;
+    top: 60px;
+    right: 2px;
+    text-decoration: none;
+    color: #002a61d8; 
+}
+.jacks{
+    position: relative;
+    top: 60px;
+    left: 2px;
+    text-decoration: none;
+    color: #002a61d8; 
+}
+.insta:hover{
+    color: #0370ffd8;
+}
+.face:hover{
+    color: #0370ffd8;
+}
+.linked:hover{
+    color: #0370ffd8;
+}
+.wang:hover{
+    color: #0370ffd8;
+}
+.jacks:hover{
+    color: #0370ffd8;
+}
